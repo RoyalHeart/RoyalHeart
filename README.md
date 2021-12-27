@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RoyalHeart (Thái Hoàng Tâm)
 - 👀 I’m interested in AI, Machine Learning.
 - 🌱 I’m currently learning Computer Science at Vietnamese German University
+- 🌱 I have an exchange semester at Frankfurt University of Applied Science in 2021
 - 📫 How to reach me: Gmail: hoangtam3062002@gmail.com 
 
 <!---
