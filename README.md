@@ -1,8 +1,9 @@
 # About me
 - 👋 Hi, I’m @RoyalHeart (Thái Hoàng Tâm) and I'm from Vietnam.
-- 👀 I’m interested in AI, Machine Learning, Software Engineering.
-- 🏫 I’m currently learning Computer Science at Vietnamese-German University
-- 🌱 I have an exchange semester at Frankfurt University of Applied Science in 2021
+- 👀 I’m interested in Software Engineering, AI, and Machine Learning.
+- 🏫 I graduated with an excellent degree from Vietnamese-German University with the Computer Science Major.
+- 🌱 I had an exchange semester at the Frankfurt University of Applied Science in 2021
+- 🏢 I'm working at UNIT Technology Corporation as a Software Engineer (Java).
 
 # 📫How to reach me: 
 <ul>
