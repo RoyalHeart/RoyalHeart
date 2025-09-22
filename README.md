@@ -1,10 +1,10 @@
 # About me
 - 👋 Hi, I’m @RoyalHeart (Thái Hoàng Tâm) and I'm from Vietnam.
-- 🎓 Currently doing Master in Computer Science at Technical University of Darmstadt.
+- 🎓 Currently doing Master in Computer Science at Technical University of Darmstadt, Germany.
+- 🏢 I worked at UNIT Technology Corporation as a Software Engineer (Java) from 2023 to 2025.
 - 👀 I’m interested mainly in Software Engineering, a bit in AI and Machine Learning.
 - 🏫 I graduated with an excellent degree from Vietnamese-German University with the Computer Science Major.
 - 🌱 I had an exchange semester at the Frankfurt University of Applied Science in 2021
-- 🏢 I worked at UNIT Technology Corporation as a Software Engineer (Java) from 2023 to 2025.
 
 # 📫How to reach me: 
 <ul>
